@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/dz.xml"
+#EXTINF:-1 tvg-id="2M.ma" tvg-logo="https://i.imgur.com/UjtrAgV.png" group-title="Undefined",2M Monde (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_eu.png" group-title="Undefined",Al Aoula International (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News",Al Jazeera Arabic (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeera/live
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="General",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" group-title="Undefined",Al Qamar TV (360p)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="General",Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" group-title="Sport",Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
